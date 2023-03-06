@@ -14,4 +14,5 @@ To play, click on any of the numbers at the bottom of the board.
 <br/>
 <br/>
 
+Last 5 plays:
 <!-- latest moves here -->
