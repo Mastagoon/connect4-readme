@@ -88,6 +88,7 @@ const startNewGame = () => {
 		}
 		updateReadme(game)
 		fs.writeFileSync("./data/game.json", JSON.stringify(game))
+		fs.writeFileSync(LATST_MOVES_PATH, '[]')
 		return true
 	} catch (err: any) {
 		console.log(err)
