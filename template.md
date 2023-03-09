@@ -6,7 +6,7 @@ It uses github actions to trigger the script when a new issue opens, which in tu
 You can try it out right now on [my profile](https://github.com/mastagoon).
 
 <!-- turn message here -->
-<div align="center">\
+<div align="center">
 To play, click on any of the numbers at the bottom of the board.
 
 <!-- board goes here -->
